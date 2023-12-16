@@ -1,4 +1,4 @@
-# active_ecommerce_flutter
+# Subsi  Customer flutter App
 
 This is the flutter mobile application for subsi ecommerce cms
 
